@@ -1,6 +1,6 @@
 # 🕰️ ChronoLens - AI Time Travel & Restoration Photo Booth
 
-![image.png](image.png)
+![Gemini_Generated_Image_ju7xeoju7xeoju7x.jpg](Gemini_Generated_Image_ju7xeoju7xeoju7x.jpg)
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Tech](https://img.shields.io/badge/React-19-61DAFB.svg)
