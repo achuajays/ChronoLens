@@ -1,0 +1,7 @@
+{
+  "name": "ChronoLens - Time Travel Photo Booth",
+  "description": "Step into history with AI. Analyze your look or travel through time by inserting yourself into historical eras.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
